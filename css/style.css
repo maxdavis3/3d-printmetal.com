@@ -709,3 +709,16 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Arctic Blue ===== */
+:root {
+    --primary: #0ea5e9;
+    --primary-dark: #0284c7;
+    --accent: #6366f1;
+    --bg-dark: #020c1a;
+    --bg-darker: #010609;
+    --bg-card: #081628;
+    --font-heading: 'Exo 2', sans-serif;
+    --font-body: 'Inter', sans-serif;
+}
+.site-header { background: rgba(2,12,26,0.85); }
